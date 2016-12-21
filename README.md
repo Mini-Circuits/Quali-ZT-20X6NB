@@ -5,10 +5,10 @@ The ZT20X6NB shell supports the ZT-20X6NB device within the CloudShell interface
 
 # Installation
 
-1. Download the ZT20X6NB.zip file to your computer
+1. Download the ZT-20X6NB.zip file to your computer
 2. Login to your CloudShell Portal as an administrator
 3. Click on “admin” – “import package”
-4. Locate the ZT20X6NB.zip file in the file browser and click “open.”
+4. Locate the ZT-20X6NB.zip file in the file browser and click “open.”
 5. Once the package is imported you can create a resource from it and use it in your CloudShell environment
 
 # CREATING A ZT-20X6NB RESOURCE IN CLOUDSHELL
